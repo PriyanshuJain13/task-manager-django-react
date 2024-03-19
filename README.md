@@ -7,7 +7,7 @@ This is a task management application built using Django for the backend and Rea
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/task-management.git
+    git clone git@github.com:PriyanshuJain13/task-manager-django-react.git
     ```
 
 2. **Install dependencies for frontend**
@@ -53,7 +53,6 @@ This is a task management application built using Django for the backend and Rea
 
 - **Django**: Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.
 - **React**: React is a JavaScript library for building user interfaces, particularly single-page applications.
-- **npm**: npm is the package manager for JavaScript and the world’s largest software registry.
 
 ## Contributing
 
@@ -64,7 +63,3 @@ Contributions are welcome! Please feel free to fork the repository and submit pu
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
