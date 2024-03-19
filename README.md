@@ -44,6 +44,10 @@ This is a task management application built using Django for the backend and Rea
 
     Visit `http://localhost:3000` in your web browser to access the task management application.
 
+   <img width="671" alt="Screenshot 2024-03-20 at 12 26 28 AM" src="https://github.com/PriyanshuJain13/task-manager-django-react/assets/85477522/b7a12257-a227-413f-ab82-c1458fd85f48">
+<img width="609" alt="Screenshot 2024-03-20 at 12 26 41 AM" src="https://github.com/PriyanshuJain13/task-manager-django-react/assets/85477522/dbd514d9-1cbe-4897-8255-a1d296eb08d2">
+
+
 ## Folder Structure
 
 - **frontend**: Contains all the files related to the React frontend.
